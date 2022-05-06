@@ -12,6 +12,8 @@ Sample only
 
 ## How to Contribute
 
-Sample
+Please fork this repository and then issue Pull requests for review
+
+## Copyright
 
 Git.Training.2022
